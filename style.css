@@ -1,0 +1,27 @@
+.text {
+    font-weight: bold;
+    color: #2d125c;
+    text-align: center;
+}
+
+.image-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.rr{
+    width: 500px;
+    height: 500px;
+    
+}
+
+.item{
+    color: red;
+}
+
+#item2{
+    color:black;
+}
+.item span {
+    color:green;
+}
